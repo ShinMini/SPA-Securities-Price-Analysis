@@ -7,7 +7,10 @@
 * numpy
 
 ---
+
 # Thumbnail
+
+[check the codes in colab](https://github.com/ShinMini/SPA-Securities-Price-Analysis/blob/mini/s_p500_analizing_app_v1.ipynb)
 
 ![image](https://user-images.githubusercontent.com/77220824/194208133-215a8ad6-8b2b-4b0a-a3e2-88f124529ac5.png)
 
